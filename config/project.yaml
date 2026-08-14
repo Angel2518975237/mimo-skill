@@ -1,0 +1,7 @@
+project_name: "《自我说明书》"
+interviewer_name: "Mimo"
+github_url: "https://github.com/Angel2518975237/mimo-skill"
+report_formats:
+  - "html"
+  - "pdf"
+memory_consent_required: true

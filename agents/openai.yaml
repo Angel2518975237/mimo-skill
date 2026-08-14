@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mimo Skill｜自我说明书"
+  short_description: "深访提炼核心价值观，持续辅助人生选择"
+  default_prompt: "使用 $mimo 陪我完成一次深度访谈，并生成我的《自我说明书》。"
