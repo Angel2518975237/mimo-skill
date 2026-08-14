@@ -63,6 +63,15 @@
 
 <p align="center"><sub>匿名报告示例：左侧为结果总览，右侧为个性化行动建议。示例未展示姓名与完整私密经历。</sub></p>
 
+它也会用足够篇幅解释：你究竟是怎样的人，为什么会形成这样的价值结构，以及看似矛盾的需要怎样在同一种人生里共存。
+
+<p align="center">
+  <img src="./docs/images/report-love-and-connection.png" width="48%" alt="匿名报告示例：你想成为厉害的人，但并不想成为一个孤独的强者" />
+  <img src="./docs/images/report-integrated-portrait.png" width="48%" alt="匿名报告示例：主体意识、精神生命与归属需要的整合画像" />
+</p>
+
+<p align="center"><sub>匿名深度分析示例：核心价值观心理解析与整合人格画像。</sub></p>
+
 报告的目标不只是“分析得很深”，而是让你看完以后能够清楚地说：
 
 > **我的核心价值观是 1、2、3。**  
@@ -239,6 +248,12 @@ git clone https://github.com/Angel2518975237/mimo-skill.git ~/.codex/skills/mimo
 它所能做的，是陪你认真看一遍自己已经走过的人生，然后在下一次选择到来时，提醒你：
 
 > **不要为了得到一个东西，失去自己真正想保护的东西。**
+
+---
+
+## License
+
+本项目采用 [MIT License](./LICENSE)。
 
 ---
 
